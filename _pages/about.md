@@ -13,4 +13,4 @@ I am assistant professor at [IMT Atlantique](https://www.imt-atlantique.fr/en), 
 My research interests include developing innovative methods to better understand the brain using modern machine learning and deep learning. On the methods side, BRAIN develops methods based on Graphs, such as Graph Signal Processing and Graph neural networks. 
 Regarding applications in Neuroscience, I am particularly interested in auditory / music perception, and the effect of music on the brain, as well as involuntary musical imagery (a.k.a. earworms). 
 
-I am also a [musician](https://nicofarr.github.io/music/), and engage into transdisciplinary efforts in [Art and Science projects](https://nicofarr.github.io/artsci/).
+I am also a [musician](https://nicofarr.github.io/music/) (I play jazz vibraphone and electronic instruments), and engage into transdisciplinary efforts in [Art and Science projects](https://nicofarr.github.io/artsci/).
