@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Electrical Engineering, ENSEA, Cergy Pontoise, 2005
+* M.Sc. in Signal processing, Université de Cergy Pontoise, 2005
+* Ph.D in Computer science and Image Processing, Université de Bourgogne, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From 2016: Assistant professor at IMT Atlantique
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* From 2013 to 2015: Postdoctoral Fellow at Goldsmiths, University of London, Department of Psychology (with Lauren Stewart)
+
+* From 2012 to 2013: Postdoctoral Fellow at Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany (with Sonja Kotz) 
+
+* From 2010 to 2012: Postdoctoral Fellow at Music Performance and Brain Lab, Warsaw, Poland (with Simone Dalla Bella) 
+
+* From 2009 to 2010: Hardware security engineer at CSSI, Le Plessis-Robinson, France.
 
 Publications
 ======
@@ -56,4 +47,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 2 different slack teams
