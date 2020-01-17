@@ -248,7 +248,7 @@ defaults:
   # _artsci
   - scope:
       path: ""
-      type: artsci
+      type: pages
     values:
       layout: single
       author_profile: true
