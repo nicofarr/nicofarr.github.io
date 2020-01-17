@@ -2,18 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Research"
-    url: /talks/    
     
   - title: "Teaching"
     url: /teaching/   
 
-  - title: "Art and Science projects"
+  - title: "Art and Science"
     url: /artsci/    
     
   - title: "Music"
-    url: /portfolio/
+    url: /music/
      
   - title: "CV"
     url: /cv/
