@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "Art and Science Projects"
 permalink: /artsci/
+title: "Art and Science projects"
 author_profile: true
 ---
+
+
 
 Under Construction ! 
