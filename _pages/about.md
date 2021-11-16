@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant professor at [IMT Atlantique](https://www.imt-atlantique.fr/en), an elite technical university in France. I am co-leading the [BRAIn team (Better Representations for Artificial Intelligence)](https://brain.bzh) together with [Vincent Gripon](http://vincent-gripon.com/?l=en&p1=1&), [Giulia Lioi](https://scholar.google.com/citations?user=mx2AqLYAAAAJ&hl=en) and [Mathieu Leonardon](https://www.mathieuleonardon.com/). 
+I am assistant professor at [IMT Atlantique](https://www.imt-atlantique.fr/en), an elite technical university in France. I am co-leading the [BRAIn team (Better Representations for Artificial Intelligence)](http://brain.bzh) together with [Vincent Gripon](http://vincent-gripon.com/?l=en&p1=1&), [Giulia Lioi](https://scholar.google.com/citations?user=mx2AqLYAAAAJ&hl=en) and [Mathieu Leonardon](https://www.mathieuleonardon.com/). 
 
 My research interests include developing innovative methods to better understand Sounds and the Brain using modern machine learning and deep learning. On the methods side, BRAIN develops methods based on Graphs, such as [Graph Signal Processing](https://nicofarr.github.io/publication/2019-01-01-Spectral-Graph-Wavelet-Transform-as-Feature-Extractor-for-Machine-Learning-in-Neuroimaging) and [Graph neural networks](https://arxiv.org/pdf/1802.09802.pdf). We are also contributing to [few-shot learning](https://paperswithcode.com/task/few-shot-image-classification), as well as on compressing deep learning architectures (see for examples [here](https://ieeexplore.ieee.org/abstract/document/9159769)).
 
