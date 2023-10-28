@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+**News - Septembre 2023** 
+A new associate prof has joined the team ! Welcome [Axel Marmoret](https://ax-le.github.io/).
+ 
 **News - July 2022** 
 
 I defended my Habilitation thesis on June 28th 2022! The defense can be seen [here](https://www.youtube.com/watch?v=2qEmb2P4za0&ab_channel=Br.A.In.) and the manuscript is [here](https://partage.imt.fr/index.php/s/KzMq5N9GbAFLjss) (23.4 MB file). 
