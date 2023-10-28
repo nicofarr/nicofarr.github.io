@@ -14,6 +14,7 @@ Education
 * M.Sc. in Electrical Engineering, ENSEA, Cergy Pontoise, 2005
 * M.Sc. in Signal processing, Université de Cergy Pontoise, 2005
 * Ph.D in Computer science and Image Processing, Université de Bourgogne, 2008
+* HdR (*Habilitation à Diriger des Recherches*) - French Habilitation for Research Director, Université de Brest occidentale, 2022
 
 Work experience
 ======
@@ -45,6 +46,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other responsabilities
 ======
-* Currently signed in to 2 different slack teams
+* Section editor for the Journal of Neuroradiology, Elsevier
