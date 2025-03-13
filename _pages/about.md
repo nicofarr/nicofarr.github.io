@@ -15,8 +15,8 @@ I am full professor ([HdR](https://www.youtube.com/watch?v=2qEmb2P4za0&ab_channe
 My research interests include developing innovative methods to better understand Sounds and the Brain using modern machine learning and deep learning. 
 
 A few representative projects:
-- Graph Signal Processing for Neuroimaging - see our [overview paper](https://direct.mit.edu/netn/article/5/2/322/97544/Gradients-of-connectivity-as-graph-Fourier-bases)
-- [Deep Learning for EEG](https://arxiv.org/abs/2309.07159)
+- Graph Signal Processing for Neuroimaging - see our [overview paper (2021)](https://direct.mit.edu/netn/article/5/2/322/97544/Gradients-of-connectivity-as-graph-Fourier-bases) and [our paper published (2025) in Imaging Neuroscience](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00448/127376/Structure-function-coupling-and-decoupling-during)
+- [Deep Learning for EEG - A Strong and Simple Deep Learning Baseline for BCI Motor Imagery Decoding](https://ieeexplore.ieee.org/abstract/document/10654330)
 - [Deep learning for Auditory Brain Encoding models](https://www.biorxiv.org/content/10.1101/2023.09.06.556533v2)
 - [Silent Cities - acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic](https://osf.io/h285u/)
 - Deep Learning for bioacoustics - see [https://arxiv.org/abs/2312.15824](https://arxiv.org/abs/2312.15824), [ICASSP'24](https://ieeexplore.ieee.org/abstract/document/10248130) and [https://arxiv.org/abs/2403.09598](https://arxiv.org/abs/2403.09598)
