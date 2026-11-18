@@ -12,6 +12,8 @@ redirect_from:
 
 I am full professor ([HdR](https://www.youtube.com/watch?v=2qEmb2P4za0&ab_channel=Br.A.In.)) at [IMT Atlantique](https://www.imt-atlantique.fr/en), an elite technical university in France. I am in the [BRAIn team (BRoader Artificial Intelligence)](https://brain.bzh) together with [Vincent Gripon](http://vincent-gripon.com/?l=en&p1=1&), [Giulia Lioi](https://scholar.google.com/citations?user=mx2AqLYAAAAJ&hl=en), [Bastien Pasdeloup](https://scholar.google.fr/citations?user=dKOgoG4AAAAJ&hl=fr), [Axel Marmoret](https://ax-le.github.io/) and [Mathieu Leonardon](https://www.mathieuleonardon.com/). 
 
+*Important news!!!* Since September 2026, I hold the research chair **GRASP** (*Graph Signal Processing for Interpreting and Steering Multimodal Large Language Models*), a research chair funded by the [Cluster SequoIA](https://cluster-sequoia.univ-rennes.fr/) as part of France 2030. See the [blog post](https://nicofarr.github.io/posts/2026/grasp/).
+
 My research interests include developing innovative methods to better understand Sounds and the Brain using modern machine learning and deep learning. 
 
 A few representative projects:
